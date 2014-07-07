@@ -27,10 +27,10 @@ Scripts:
 1. node-extract
 
     Usage:
-    node node-extract.js <FILE:Fasta ID List> <FILE: FASTA> <FILE: Extract to>
+    `node node-extract.js <FILE:Fasta ID List> <FILE: FASTA> <FILE: Extract to>`
     
     Example (included):
-    node node-extract.js test.id.txt test.fasta test.out
+    `node node-extract.js test.id.txt test.fasta test.out`
 
 
 Contact:
