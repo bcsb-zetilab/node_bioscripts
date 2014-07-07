@@ -1,0 +1,3 @@
+fasta2
+fasta5
+fasta6

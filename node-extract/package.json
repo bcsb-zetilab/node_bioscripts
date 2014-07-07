@@ -1,0 +1,17 @@
+{
+  "name": "node-extract",
+  "version": "0.1.0",
+  "description": "Node.js script to extract FASTA based on ID.",
+  "author": "Loke Kok Keong <kkloke86@zetilab.org>",
+  "keywords": [
+    "nodejs",
+    "extract",
+    "fasta"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "deasync": "0.0.7",
+    "figlet": "^1.0.9",
+    "line-by-line": "^0.1.1"
+  }
+}
