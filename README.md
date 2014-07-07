@@ -19,9 +19,8 @@ Requirements:
 Notes:
 -----
 1. Each helper scripts are standalone in separated folders.
-2. Require Node.js version 0.10.x
-3. To install, enter helper script folder, run `npm install`
-4. Enjoy!
+2. To install, enter helper script folder, run `npm install`
+3. Enjoy!
 
 Scripts:
 --------
@@ -34,3 +33,7 @@ Scripts:
     
     Example (included):
     node node-extract.js test.id.txt test.fasta test.out
+
+Contact:
+--------
+Let me know if you have issues with the scripts. <kkloke86@zetilab.org>
