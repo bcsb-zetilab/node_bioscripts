@@ -32,6 +32,11 @@ Scripts:
     Example (included):
     `node node-extract.js test.id.txt test.fasta test.out`
 
+2. tf_analysis
+
+    Usage:
+    Unzip the zip archive file then execute the binary.
+
 
 Contact:
 --------
