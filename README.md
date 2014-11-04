@@ -34,6 +34,11 @@ Scripts:
 
 2. tf_analysis
 
+    Version: 1.0
+    Build: 
+    1. Windows [tf_analysis-win.zip] (http://zetilab.org/temp/tf_analysis-win.zip 'window build')
+    2. MacOSX [tf_analysis-macosx.zip] (http://zetilab.org/temp/tf_analysis-macosx.zip "mac")
+
     Usage:
     Unzip the zip archive file then execute the binary.
 
